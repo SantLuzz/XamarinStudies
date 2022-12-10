@@ -1,0 +1,15 @@
+D:\Code\Xamarin\LayoutGrid\LayoutGrid\LayoutGrid\bin\Debug\netstandard2.0\LayoutGrid.deps.json
+D:\Code\Xamarin\LayoutGrid\LayoutGrid\LayoutGrid\bin\Debug\netstandard2.0\LayoutGrid.dll
+D:\Code\Xamarin\LayoutGrid\LayoutGrid\LayoutGrid\bin\Debug\netstandard2.0\LayoutGrid.pdb
+D:\Code\Xamarin\LayoutGrid\LayoutGrid\LayoutGrid\obj\Debug\netstandard2.0\LayoutGrid.csproj.AssemblyReference.cache
+D:\Code\Xamarin\LayoutGrid\LayoutGrid\LayoutGrid\obj\Debug\netstandard2.0\LayoutGrid.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Xamarin\LayoutGrid\LayoutGrid\LayoutGrid\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Code\Xamarin\LayoutGrid\LayoutGrid\LayoutGrid\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Code\Xamarin\LayoutGrid\LayoutGrid\LayoutGrid\obj\Debug\netstandard2.0\LayoutGrid.AssemblyInfoInputs.cache
+D:\Code\Xamarin\LayoutGrid\LayoutGrid\LayoutGrid\obj\Debug\netstandard2.0\LayoutGrid.AssemblyInfo.cs
+D:\Code\Xamarin\LayoutGrid\LayoutGrid\LayoutGrid\obj\Debug\netstandard2.0\LayoutGrid.csproj.CoreCompileInputs.cache
+D:\Code\Xamarin\LayoutGrid\LayoutGrid\LayoutGrid\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Code\Xamarin\LayoutGrid\LayoutGrid\LayoutGrid\obj\Debug\netstandard2.0\LayoutGrid.dll
+D:\Code\Xamarin\LayoutGrid\LayoutGrid\LayoutGrid\obj\Debug\netstandard2.0\refint\LayoutGrid.dll
+D:\Code\Xamarin\LayoutGrid\LayoutGrid\LayoutGrid\obj\Debug\netstandard2.0\LayoutGrid.pdb
+D:\Code\Xamarin\LayoutGrid\LayoutGrid\LayoutGrid\obj\Debug\netstandard2.0\ref\LayoutGrid.dll
