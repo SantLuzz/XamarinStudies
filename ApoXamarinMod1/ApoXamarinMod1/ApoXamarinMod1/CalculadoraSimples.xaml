@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ApoXamarinMod1.CalculadoraSimples">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Calculadora Simples"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <Label Text="Valor A: "/>
+            <Entry x:Name="txtValorA" Keyboard="Numeric" Placeholder="Insira um valor..." />
+            <Label Text="Valor B" />
+            <Entry x:Name="txtValorB" Keyboard="Numeric" Placeholder="Insira um valor..." />
+            <StackLayout Orientation="Horizontal" VerticalOptions="CenterAndExpand" Spacing="10">
+                <Button  Text="+" Clicked="Button_Clicked" />
+                <Button  Text="-" Clicked="Button_Clicked"/>
+                <Button  Text="/" Clicked="Button_Clicked"/>
+                <Button  Text="*" Clicked="Button_Clicked"/>
+            </StackLayout>
+            <Label x:Name="lblResposta" />
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

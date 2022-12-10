@@ -1,0 +1,16 @@
+D:\Code\Xamarin\ApoXamarinMod1\ApoXamarinMod1\ApoXamarinMod1\bin\Debug\netstandard2.0\ApoXamarinMod1.deps.json
+D:\Code\Xamarin\ApoXamarinMod1\ApoXamarinMod1\ApoXamarinMod1\bin\Debug\netstandard2.0\ApoXamarinMod1.dll
+D:\Code\Xamarin\ApoXamarinMod1\ApoXamarinMod1\ApoXamarinMod1\bin\Debug\netstandard2.0\ApoXamarinMod1.pdb
+D:\Code\Xamarin\ApoXamarinMod1\ApoXamarinMod1\ApoXamarinMod1\obj\Debug\netstandard2.0\ApoXamarinMod1.csproj.AssemblyReference.cache
+D:\Code\Xamarin\ApoXamarinMod1\ApoXamarinMod1\ApoXamarinMod1\obj\Debug\netstandard2.0\ApoXamarinMod1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Xamarin\ApoXamarinMod1\ApoXamarinMod1\ApoXamarinMod1\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Code\Xamarin\ApoXamarinMod1\ApoXamarinMod1\ApoXamarinMod1\obj\Debug\netstandard2.0\ApoXamarinMod1.AssemblyInfoInputs.cache
+D:\Code\Xamarin\ApoXamarinMod1\ApoXamarinMod1\ApoXamarinMod1\obj\Debug\netstandard2.0\ApoXamarinMod1.AssemblyInfo.cs
+D:\Code\Xamarin\ApoXamarinMod1\ApoXamarinMod1\ApoXamarinMod1\obj\Debug\netstandard2.0\ApoXamarinMod1.csproj.CoreCompileInputs.cache
+D:\Code\Xamarin\ApoXamarinMod1\ApoXamarinMod1\ApoXamarinMod1\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Code\Xamarin\ApoXamarinMod1\ApoXamarinMod1\ApoXamarinMod1\obj\Debug\netstandard2.0\ApoXamarinMod1.dll
+D:\Code\Xamarin\ApoXamarinMod1\ApoXamarinMod1\ApoXamarinMod1\obj\Debug\netstandard2.0\refint\ApoXamarinMod1.dll
+D:\Code\Xamarin\ApoXamarinMod1\ApoXamarinMod1\ApoXamarinMod1\obj\Debug\netstandard2.0\ApoXamarinMod1.pdb
+D:\Code\Xamarin\ApoXamarinMod1\ApoXamarinMod1\ApoXamarinMod1\obj\Debug\netstandard2.0\ref\ApoXamarinMod1.dll
+D:\Code\Xamarin\ApoXamarinMod1\ApoXamarinMod1\ApoXamarinMod1\obj\Debug\netstandard2.0\ParOuImpar.xaml.g.cs
+D:\Code\Xamarin\ApoXamarinMod1\ApoXamarinMod1\ApoXamarinMod1\obj\Debug\netstandard2.0\CalculadoraSimples.xaml.g.cs
