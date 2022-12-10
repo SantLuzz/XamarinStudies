@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinCalculadora.MainPage">
+
+    <Grid>
+        <!--Definindo as linhas do grid-->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <!-- Definindo as colunas do grid -->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        
+        <!-- Definindo os elementos-->
+        <Label x:Name="lblResultado" FontSize="48" FontAttributes="Bold" BackgroundColor="Black" 
+               Text="0" TextColor="White" HorizontalTextAlignment="End" VerticalTextAlignment="Center"
+               LineBreakMode="NoWrap" Grid.ColumnSpan="4" Grid.Row="0"/>
+        <!--Linha 1-->
+        <Button Text="7" Grid.Column="0" Grid.Row="1" BackgroundColor="White" 
+                TextColor = "Black" FontSize="36" BorderRadius ="0" Clicked="SelecionarNumero_Clicked"/>
+        <Button Text="8" Grid.Column="1" Grid.Row="1" BackgroundColor="White" 
+                TextColor = "Black" FontSize="36" BorderRadius ="0" Clicked="SelecionarNumero_Clicked"/>
+        <Button Text="9" Grid.Column="2" Grid.Row="1" BackgroundColor="White" 
+                TextColor = "Black" FontSize="36" BorderRadius ="0" Clicked="SelecionarNumero_Clicked"/>
+        <Button Text="/" Grid.Column="3" Grid.Row="1" BackgroundColor="Orange" 
+                TextColor = "White" FontSize="36" BorderRadius ="0" Clicked="SelecionarOperacao_Clicked"/>
+        <!--Linha 2-->
+        <Button Text="4" Grid.Column="0" Grid.Row="2" BackgroundColor="White" 
+                TextColor = "Black" FontSize="36" BorderRadius ="0" Clicked="SelecionarNumero_Clicked"/>
+        <Button Text="5" Grid.Column="1" Grid.Row="2" BackgroundColor="White" 
+                TextColor = "Black" FontSize="36" BorderRadius ="0" Clicked="SelecionarNumero_Clicked"/>
+        <Button Text="6" Grid.Column="2" Grid.Row="2" BackgroundColor="White" 
+                TextColor = "Black" FontSize="36" BorderRadius ="0" Clicked="SelecionarNumero_Clicked"/>
+        <Button Text="*" Grid.Column="3" Grid.Row="2" BackgroundColor="Orange" 
+                TextColor = "White" FontSize="36" BorderRadius ="0" Clicked="SelecionarOperacao_Clicked"/>
+
+        <!--Linha3-->
+        <Button Text="1" Grid.Column="0" Grid.Row="3" BackgroundColor="White" 
+                TextColor = "Black" FontSize="36" BorderRadius ="0" Clicked="SelecionarNumero_Clicked"/>
+        <Button Text="2" Grid.Column="1" Grid.Row="3" BackgroundColor="White" 
+                TextColor = "Black" FontSize="36" BorderRadius ="0" Clicked="SelecionarNumero_Clicked"/>
+        <Button Text="3" Grid.Column="2" Grid.Row="3" BackgroundColor="White" 
+                TextColor = "Black" FontSize="36" BorderRadius ="0" Clicked="SelecionarNumero_Clicked"/>
+        <Button Text="-" Grid.Column="3" Grid.Row="3" BackgroundColor="Orange" 
+                TextColor = "White" FontSize="36" BorderRadius ="0" Clicked="SelecionarOperacao_Clicked"/>
+        <!--Linha 4-->
+        <Button Text="0" Grid.ColumnSpan="3" Grid.Row="4" BackgroundColor="White" 
+                TextColor = "Black" FontSize="36" BorderRadius ="0" Clicked="SelecionarNumero_Clicked"/>
+        <Button Text="+" Grid.Column="3" Grid.Row="4" BackgroundColor="Orange" 
+                TextColor = "White" FontSize="36" BorderRadius ="0" Clicked="SelecionarOperacao_Clicked"/>
+        <!--Linha 5-->
+        <Button Text="C" Grid.Column="0" Grid.Row="5" BackgroundColor="Gray" 
+                TextColor = "White" FontSize="36" BorderRadius ="0" Clicked="LimparControles_Clicked"/>
+        <Button Text="=" Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="5" BackgroundColor="Orange" 
+                TextColor = "White" FontSize="36" BorderRadius ="0" Clicked="CalcularResultado_Clicked"/>
+
+
+    </Grid>
+
+</ContentPage>
