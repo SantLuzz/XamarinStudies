@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "lT06PCd/hMqK6WN2x+Fzw/Jcm6LZfVzkII0xWJAvDQmX4lu5m/rO9dUZyhrS4rgELkOqA80E7OJoocadu3hetw==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\Xamarin\\XamarinStudies\\XamarinHoraLanche\\XamarinHoraLanche\\XamarinHoraLanche\\XamarinHoraLanche.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luiz\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Luiz\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Luiz\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Luiz\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Luiz\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
